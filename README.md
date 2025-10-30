@@ -15,16 +15,15 @@ The paper is available at  |[`[PDF Download]`](https://www.sciencedirect.com/sci
 In this paper, we proposed the D-deepscore, which could quickly and accurately evaluate models from different source domains on a target domain, and then select the source domain model without any
 fine-tuning process.
 
+<img src="fig1.png" width="70%" height="70%">
+To validate the accuracy of D-deepscore in evaluating the transfer performance of pre-trained models, we tested D-deepscore on various image datasets and analyzed the evaluation scores against the accuracy of the models after training. The results showed a high degree of consistency between the evaluation curves and the model accuracy. 
+<img src="fig2.png" width="70%" height="70%">
+
 ### Pre-traind model and transfer feature file download
 Google Drive: https://drive.google.com/file/d/1-nzyftwh1guvUbbKHsNj1OZRhFBMe_kk/view?usp=sharing
 
 Baidu Cloud: https://pan.baidu.com/s/1cFSsh3A5xGmBTTQxpKEIHQ?pwd=qrad Password：qrad
 
-
-<img src="fig1.png" width="70%" height="70%">
-<img src="fig2.png" width="70%" height="70%">
-
-To validate the accuracy of D-deepscore in evaluating the transfer performance of pre-trained models, we tested D-deepscore on various image datasets and analyzed the evaluation scores against the accuracy of the models after training. The results showed a high degree of consistency between the evaluation curves and the model accuracy. 
 ### Experimental Steps
 ### Step 1: Obtaining the pre-trained model
 There are two ways to obtain pre-trained models. One is to pre-train the selected model using your own dataset, and the other is to obtain the official pre-trained model.
