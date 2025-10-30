@@ -6,8 +6,7 @@ By  Guizhong Fu, Zengguang Zhang.
 
 Cite us using:
 
-Guizhong Fu*, Zengguang Zhang, Li J, et al. An Evaluation Method for Model Transfer Learning Performance in Industrial
-Surface Defect Detection Tasks[J]. Expert Systems with Applications, 2025: 128680.
+Guizhong Fu, Zengguang Zhang, J Li, et al. An Evaluation Method for Model Transfer Learning Performance in Industrial Surface Defect Detection Tasks[J]. Expert Systems with Applications, 2025: 128680.
 
 The paper is available at  |[`[PDF Download]`](https://www.sciencedirect.com/science/article/pii/S0957417425022985)
 
